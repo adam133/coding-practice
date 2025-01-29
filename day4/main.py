@@ -1,5 +1,5 @@
-import vertexai
-from vertexai.generative_models import GenerativeModel
+
+from google.cloud import aiplatform
 from dotenv import load_dotenv
 import os
 
